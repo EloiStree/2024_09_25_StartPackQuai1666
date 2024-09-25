@@ -1,0 +1,23 @@
+
+{                                                                                
+  "name": "be.elab.startpackquaiscan",                              
+  "displayName": "Quai10MetaXR",                        
+  "version": "0.0.1",                         
+  "unity": "2018.1",                             
+  "unityRelease": "",                             
+  "description": "Start pack with the volume, anchor and a default boat to test the space.",                         
+  "keywords": ["Script","Tool"],                       
+  "dependencies":{},     
+  "relatedPackages":{},     
+  "samples" : [],     
+  "author" : {
+"name":"",
+"mail":"",
+"url":""},     
+  "repository":{
+"type":"Git",
+"url":"https://github.com/EloiStree/2024_09_25_StartPackQuai1666.git",
+"footprint":"",
+"revision":""},     
+  "category": "Script"                   
+} 
