@@ -10,6 +10,7 @@ Add me:
     "be.elab.developernote": "https://github.com/EloiStree/2024_08_09_DeveloperNote.git",
     "be.elab.irctoy": "https://github.com/EloiStree/2023_09_15_IToyControllerRC.git",
     "be.elab.quaiboatnidar": "https://github.com/EloiStree/2024_09_23_Quai10Boat.git",
+    "be.elab.startpackquaiscan": "https://github.com/EloiStree/2024_09_25_StartPackQuai1666.git",
     "be.elab.quaimeasure": "https://github.com/EloiStree/2024_09_22_Quai10Mesh.git",
     "be.elab.quickfollowit": "https://github.com/EloiStree/2024_09_16_QuickFollowIt.git",
     "be.elab.watchexecutetime": "https://github.com/EloiStree/2024_04_18_WatchExecuteTime.git",
