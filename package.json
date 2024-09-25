@@ -1,7 +1,7 @@
 
 {                                                                                
   "name": "be.elab.startpackquaiscan",                              
-  "displayName": "Quai10MetaXR",                        
+  "displayName": "Quai 1666 Start Pack",                        
   "version": "0.0.1",                         
   "unity": "2018.1",                             
   "unityRelease": "",                             
@@ -11,7 +11,7 @@
   "relatedPackages":{},     
   "samples" : [],     
   "author" : {
-"name":"",
+"name":"Eloi Stree",
 "mail":"",
 "url":""},     
   "repository":{
